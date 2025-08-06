@@ -24,3 +24,8 @@ woff2-font-awesome
 ttf-twemoji
 otf-latin-modern
 otf-latinmodern-math
+gcc
+make
+ripgrep
+xclip
+fd-find
