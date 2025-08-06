@@ -7,7 +7,7 @@ if ! command -v yay &> /dev/null; then
   rm -rf yay
 fi
 
-echo "using yay to install dependencies..."
+echo "yay -> packages.yay"
 yay -S --needed --noconfirm $(< packages.yay)
 
 echo "applying dotfiles..."
