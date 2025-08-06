@@ -39,3 +39,7 @@ Inherits=macOS
 install this using the arch wiki about fonts 
 
 [fonts](https://wiki.archlinux.org/title/Fonts)
+
+## wallpapers
+
+I use wallpapers from [gruvbox](https://gruvbox-wallpapers.pages.dev/), here in this repo, I save what I'm currently using
