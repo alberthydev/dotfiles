@@ -1,5 +1,15 @@
 # dotfiles
 
+## setup
+
+clone the repository and execute install.sh:
+
+```zsh
+git clone git@github.com:seunome/dotfiles.git ~/dotfiles
+cd ~/dotfiles
+./install.sh
+```
+
 ## apple cursor :apple:
 I really like the style of the apple cursor on macOS. On arch, there's a package called ```apple_cursor``` available in the AUR. You can install it using ```yay``` like this:
 
