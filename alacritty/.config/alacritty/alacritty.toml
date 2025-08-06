@@ -1,0 +1,16 @@
+general.import = ["~/.config/alacritty/rose-pine-moon.toml"]
+
+[font]
+normal.family = "CaskaydiaMono Nerd Font"
+normal.style = "Regular"
+size = 10
+
+[window]
+padding.x = 5
+padding.y = 10
+
+[selection]
+save_to_clipboard = true
+
+[cursor]
+style.shape = "Block"
