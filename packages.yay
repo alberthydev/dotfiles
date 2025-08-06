@@ -1,9 +1,14 @@
 alacritty
+bat
 neovim
 zsh
 rofi
+zip
+unzip
+ntfs-3g
+upower
 thunar
-librewolf
+librewolf-bin
 nm-applet
 pasystray
 pavucontrol
@@ -12,3 +17,10 @@ rose-pine-gtk-theme-full
 git
 nvidia-prime
 stremio
+ttf-noto-emoji-monochrome
+noto-fonts-emoji
+ttf-joypixels
+woff2-font-awesome
+ttf-twemoji
+otf-latin-modern
+otf-latinmodern-math
