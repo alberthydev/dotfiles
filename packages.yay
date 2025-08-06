@@ -5,8 +5,10 @@ rofi
 thunar
 librewolf
 nm-applet
-pipewire
+pasystray
+pavucontrol
 spotify-tray-git
-rosepine-gtk-theme
+rose-pine-gtk-theme-full
 git
 nvidia-prime
+stremio

@@ -28,3 +28,13 @@ then add the following at the top of the file:
 [Icon Theme]
 Inherits=macOS
 ```
+
+## fonts
+
+- [JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/JetBrainsMono.zip)
+- [MesloLG Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/Meslo.zip)
+- [CaskaydiaMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.4.0/CascadiaMono.zip)
+
+install this using the arch wiki about fonts 
+
+[fonts](https://wiki.archlinux.org/title/Fonts)
