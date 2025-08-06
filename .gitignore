@@ -1,0 +1,83 @@
+# -----------------------
+# PERSONAL / SENSITIVE FILES
+# -----------------------
+
+# SSH and GPG keys
+.ssh/
+.gnupg/
+
+# Secrets and credentials
+.env
+.env.local
+*.key
+*.pem
+*.crt
+
+# Shell history
+.zsh_history
+.bash_history
+
+# Cache and session files
+.cache/
+.local/share/nvim/shada/
+nvim/.local/
+nvim/.cache/
+nvim/.netrwhist
+zsh/.zcompdump*
+zsh/.zsh_sessions
+
+# Temporary or backup files
+*~
+*.swp
+*.swo
+*.bak
+*.old
+*.tmp
+*.orig
+
+# stow-related temp files
+.stow-local-ignore
+
+# -----------------------
+# THEMES / FONTS / ICONS
+# -----------------------
+
+fonts/
+.local/share/fonts/
+.icons/
+.themes/
+
+# -----------------------
+# SYSTEM / DESKTOP FILES
+# -----------------------
+
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# dconf dump (optional)
+dconf-settings.ini
+
+# -----------------------
+# GIT-SPECIFIC
+# -----------------------
+
+# Lock files
+*.lock
+
+# Merge conflict files
+*.orig
+
+# -----------------------
+# FORCE INCLUDE EXPLICIT CONFIGS
+# -----------------------
+
+# Allow tracking of specific config files
+!zsh/.zshrc
+!nvim/.config/nvim/init.lua
+!bash/.bashrc
+!git/.gitconfig
+!gtk/.config/gtk-3.0/*
+
