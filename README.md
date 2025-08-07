@@ -17,7 +17,7 @@ I really like the style of the apple cursor on macOS. On arch, there's a package
 ```zsh
 yay -S apple_cursor
 ```
-after installing the package, you can change the system-wide cursor theme by editing the ```index.theme``` file in the ```/usr/share/icons/default/ directory```. Open it with:
+after installing the package, you can change the system-wide cursor theme by editing the ```index.theme``` file in the ```/usr/share/icons/default/``` directory. Open it with:
 
 ```zsh
 sudoedit /usr/share/icons/default/index.theme
